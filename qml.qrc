@@ -6,5 +6,11 @@
         <file>AWActions.qml</file>
         <file>AWScriptWindow.qml</file>
         <file>AWAllTextWindow.qml</file>
+        <file>AWMainTitle.qml</file>
+        <file>AWArticleBar.qml</file>
+        <file>AWArticleBlock.qml</file>
+        <file>Test.qml</file>
+        <file>AWArticleModel.qml</file>
+        <file>AWArticleMenuBox.qml</file>
     </qresource>
 </RCC>
